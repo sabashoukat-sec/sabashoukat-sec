@@ -41,7 +41,5 @@ Hack The Box · VulnHub  · TryHackMe  . OwaspZap
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/saba-shoukat-2104b2371) · [Email](mailto:sabaamalik.021@gmail.com)
 
-*All security work is performed in authorised, isolated lab environments.*
-[LinkedIn](https://www.linkedin.com/in/saba-shoukat-2104b2371) · [Email](mailto:sabaamalik.021@gmail.com)
 
 *All security work is performed in authorised, isolated lab environments.*
